@@ -8,3 +8,6 @@ var sem2=3.55
 var sem3=3.99
 var Average=sem1+sem2+sem3
 console.log(Myname)
+console.log(gender)
+console.log(School)
+console.log(Average)
