@@ -18,4 +18,3 @@ else if(sem2>sem1){
 else{
 console.log("didn't attend any lectures")
 }
-console.log(Average)
